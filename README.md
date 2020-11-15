@@ -29,7 +29,7 @@ The output will be located at propz/raw_data/results/ directory filled with seve
 To run the code, follow the steps ahead.
 
     1.) clone the repository with below command
-      git clone ""
+      git clone https://github.com/daniel-dqsdatalabs/propz.git
       
     2.) Go to the script directory
        cd propz
